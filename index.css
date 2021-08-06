@@ -1,0 +1,26 @@
+
+footer{
+    background-color: burlywood;
+    height: 40px;
+}
+
+
+.barra{
+    background-color: aquamarine;
+    height: 80px;
+}
+
+.tamañoImg{
+    width: 200px;
+    height: 200px;
+}
+.foto
+{
+    width: 400px;
+    height: 400px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
